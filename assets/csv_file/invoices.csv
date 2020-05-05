@@ -1,0 +1,34 @@
+Invoice-no,Student,Class,Invoice-Title,Total-Amount,Paid-Amount,Creation-Date,Payment-Date,Status
+00000001,"Porter Gutmann","Class One","Exam Fee",$15,$15,15-Dec-2019,"Not Found",Paid
+00000002,"Cecil Leuschke","Class One","Exam Fee",$15,$15,15-Dec-2019,"Not Found",Paid
+00000003,"Alessia Yost","Class One","Exam Fee",$15,$15,15-Dec-2019,"Not Found",Paid
+00000004,"Mathew Bode","Class One","Exam Fee",$15,$0,17-Dec-2019,"Not Found",Unpaid
+00000005,"Prof. America Rice","Class One","Exam Fee",$15,$15,15-Dec-2019,"Not Found",Paid
+00000006,"Eva Purdy","Class One","Exam Fee",$15,$0,17-Dec-2019,"Not Found",Unpaid
+00000007,"Mrs. Dakota Wisozk Jr.","Class One","Exam Fee",$15,$15,15-Dec-2019,"Not Found",Paid
+00000008,"Troy Purdy","Class One","Exam Fee",$15,$15,15-Dec-2019,"Not Found",Paid
+00000009,"Nathanial Gaylord PhD","Class One","Exam Fee",$15,$0,17-Dec-2019,"Not Found",Unpaid
+00000010,"Prof. Gudrun Cremin IV","Class One","Exam Fee",$15,$15,15-Dec-2019,"Not Found",Paid
+00000011,"Madonna Purdy","Class One","Exam Fee",$15,$15,15-Dec-2019,"Not Found",Paid
+00000012,"Vivien McDermott","Class One","Exam Fee",$15,$15,15-Dec-2019,"Not Found",Paid
+00000017,"Porter Gutmann","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000018,"Cecil Leuschke","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000019,"Alessia Yost","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000020,"Mathew Bode","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000021,"Prof. America Rice","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000022,"Eva Purdy","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000023,"Mrs. Dakota Wisozk Jr.","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000024,"Troy Purdy","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000025,"Nathanial Gaylord PhD","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000026,"Prof. Gudrun Cremin IV","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000027,"Madonna Purdy","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000028,"Vivien McDermott","Class One","Admission Fee",$500,$500,17-Dec-2019,"Not Found",Paid
+00000029,"Cecil Leuschke","Class One","Test Exam Fee",$15,$0,17-Dec-2019,"Not Found",Unpaid
+00000030,"Vielka Little","Class Two","Sports day fees",$650,$0,19-Dec-2019,"Not Found",Unpaid
+00000031,"Vielka Little","Class Two","Extra Curriculum Function Fees ",$630,$450,19-Dec-2019,19-Dec-2019,Unpaid
+00000032,"Vielka Little","Class Two","Class Party of Class Two",$150,$100,19-Dec-2019,19-Dec-2019,Unpaid
+00000033,"Jermaine Simpson","Class Two","Class Party of Class Two",$150,$100,19-Dec-2019,19-Dec-2019,Unpaid
+00000034,"Zachery Hughes","Class Two","Class Party of Class Two",$150,$100,19-Dec-2019,19-Dec-2019,Unpaid
+00000035,"Vielka Little","Class Two","Test Mass Invoice",$64,$0,19-Dec-2019,"Not Found",Unpaid
+00000036,"Jermaine Simpson","Class Two","Test Mass Invoice",$64,$0,19-Dec-2019,"Not Found",Unpaid
+00000037,"Zachery Hughes","Class Two","Test Mass Invoice",$64,$0,19-Dec-2019,"Not Found",Unpaid
